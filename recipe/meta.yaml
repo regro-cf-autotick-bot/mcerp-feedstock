@@ -24,6 +24,7 @@ requirements:
     - matplotlib-base
     - numpy
     - scipy
+    - setuptools
 
 test:
   requires:
