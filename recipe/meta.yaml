@@ -19,6 +19,7 @@ requirements:
     - python {{ python_min }}
     - pip
     - setuptools_scm
+    - setuptools
   run:
     - python >={{ python_min }}
     - matplotlib-base
